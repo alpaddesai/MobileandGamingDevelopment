@@ -1,0 +1,15 @@
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\bin\Release\MobileandGamingDevelopment.exe.config
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\bin\Release\MobileandGamingDevelopment.exe
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\bin\Release\MobileandGamingDevelopment.pdb
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment_MarkupCompile.cache
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment_MarkupCompile.lref
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment.g.resources
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment.Properties.Resources.resources
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment.exe
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment.pdb
+C:\Users\ADG\source\repos\MobileandGamingDevelopment\MobileandGamingDevelopment\obj\Release\MobileandGamingDevelopment.csprojAssemblyReference.cache
