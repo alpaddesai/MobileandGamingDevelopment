@@ -4,6 +4,6 @@ The project provides an introduction to Mobile and Gaming Development . Confiden
 
 Please download the executable in https://github.com/alpaddesai/MobileandGamingDevelopment/releases for details.
 
-All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. Copyright protection is in process.
+All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. 
 
 ![image](MobileandGamingDevelopment.png)
